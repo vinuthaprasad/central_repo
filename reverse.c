@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void reverse()
 {
     int i, j, k;
