@@ -1,5 +1,5 @@
 #include <stdio.h>
-void big_3()
+void big3()
 {
     double n1, n2, n3;
     printf("Enter three different numbers: ");
