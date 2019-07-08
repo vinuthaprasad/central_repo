@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-main()
+void main()
 {
-void fact();
-void big3();
+fact();
+big3();
 }
 
