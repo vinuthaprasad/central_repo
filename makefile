@@ -13,5 +13,5 @@ palindrome.o:
 reverse.o:
 	gcc -c reverse.c
 	
-	echo "hi"
+	
 
