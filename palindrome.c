@@ -24,5 +24,4 @@ void palindrome(){
     else {
         printf("%s is a palindrome", string1);
     }
-    
 }
