@@ -2,7 +2,7 @@
 
 void fact()
 {
-  echo "hi"
+  
   int c, n, fact = 1;
 
   printf("Enter a number to calculate its factorial\n");
